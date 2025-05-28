@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender coisas 
 - 💻 Desenvolvedor Java
 - 🌱 Estudando React, Node.js e DevOps
 - 🔭 Atualmente trabalhando em projetos open source
-- 📫 Me encontre no LinkedIn: [linkedin.com/in/uederdev](https://linkedin.com/in/uederdev)
+- 📫 Me encontre no LinkedIn: [linkedin.com/in/uederdev](https://www.linkedin.com/in/ueder-carlos-costa-caetano-22436151/)
 
 ## Minhas linguagens favoritas
 <!-- Frontend -->
