@@ -22,5 +22,10 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender coisas 
 - [Projeto Open Source](https://github.com/uederdev/projeto-open-source)
 
 ---
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uederdev&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=uederdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 Obrigado por visitar meu perfil! 🚀
