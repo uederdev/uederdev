@@ -17,6 +17,10 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender coisas 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
+## Estou aprendendo
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/abap/sap-original.svg" width="40" height="40"/> 
+
+
 ## Projetos em destaque
 - [Meu Portfolio](https://github.com/uederdev/meu-portfolio)
 - [Projeto Open Source](https://github.com/uederdev/projeto-open-source)
